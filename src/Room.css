@@ -1,0 +1,46 @@
+.room{
+    height: 100vh;
+}
+
+.lit{
+    background-color:white;
+    color: black;
+    height: 100vh;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.but1{
+    margin-left: 650px;
+    margin-top: 250px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.but1:hover{
+    background-color: black;
+    color: white;
+}
+
+.but2{
+    margin-left: 70px;
+    margin-top: 250px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.but2:hover{
+    background-color: black;
+    color: white;
+}
+
+center{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 50px;
+    font-style: italic;
+}
